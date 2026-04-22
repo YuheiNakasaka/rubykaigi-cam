@@ -4,9 +4,9 @@
   const FRAME_WIDTH = 1018;
   const FRAME_HEIGHT = 1290;
   const CLIP_X = 109;
-  const CLIP_Y = 55;
+  const CLIP_Y = 45;
   const CLIP_W = 800;
-  const CLIP_H = 590;
+  const CLIP_H = 640;
   const CLIP_R = 20;
 
   let currentScreen = "start";
